@@ -5,6 +5,7 @@
 </head>
 <body>
     <h1>Exemplo de Código ES6</h1>
+    <h3>Função para cálcular salário</h3>
     <pre>
     function calculaSalario(){
         var valor = document.getElementById("valor").value;
